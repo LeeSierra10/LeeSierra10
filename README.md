@@ -16,7 +16,7 @@
         <a href="https://www.linkedin.com/in/aldair-lee-sierra-valenzuela-87a3381b2/">
         <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"> </a>
         <a href="https://x.com/?lang=es">
-        <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="30"></a>
+        <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="50"></a>
 
 </div>
 
