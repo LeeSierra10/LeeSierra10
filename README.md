@@ -19,6 +19,8 @@
         <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="50"></a>
         <a href="mailto:aleeese0506@gmail.com">
         <img src="https://img.icons8.com/color/48/gmail.png" width="50"></a>
+        <a href="https://wa.me/51953044620">
+        <img src="https://img.icons8.com/color/48/whatsapp.png" width="50"></a>
 
 </div>
 
